@@ -26,7 +26,7 @@
         "ass/xmlsecurity": "~1.0"
     },
     "autoload": {
-        "psr-4": { "BeSimple\\SoapServer": "src/" }
+        "psr-4": { "BeSimple\\SoapServer\\": "src/" }
     },
     "extra": {
         "branch-alias": {
